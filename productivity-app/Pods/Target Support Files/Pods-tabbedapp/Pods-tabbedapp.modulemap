@@ -1,6 +1,0 @@
-framework module Pods_tabbedapp {
-  umbrella header "Pods-tabbedapp-umbrella.h"
-
-  export *
-  module * { export * }
-}
